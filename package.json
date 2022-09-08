@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "ngrok": "^4.3.3"
+  },
+  "scripts": {
+    "server": "json-server --watch db.json --port 5000",
+    "cervero": "node cervero.js",
+    "start": "npm run cervero & npm run server"
+  }
+}
