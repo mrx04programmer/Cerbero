@@ -15,13 +15,13 @@ const requestListener = function(req, res){
     <!DOCTYPE html>
     <html>
     <head>
-        <title>Cervero</title>
+        <title>Cerbero</title>
         <meta charset="UTF-8">
     </head>
     <body>
         <div id="inicio">
-        <h1>Cervero</h1>
-        <h6>Cervero ha sido iniciado exitosamente</h6>
+        <h1>Cerbero</h1>
+        <h6>cerbero ha sido iniciado exitosamente</h6>
         <h3>Acciones:</h3>
         <div id="menu">
         <ol>

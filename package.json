@@ -5,7 +5,7 @@
   },
   "scripts": {
     "server": "json-server --watch db.json --port 5000",
-    "cervero": "node cervero.js",
-    "start": "npm run cervero & npm run server"
+    "cerbero": "node cerbero.js",
+    "start": "npm run cerbero & npm run server"
   }
 }
