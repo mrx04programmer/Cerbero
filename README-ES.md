@@ -37,3 +37,4 @@ Para iniciar el servidor de cerbero, utilizamos el comando ```npm run cerbero```
 
 <h6>Versión de NodeJS usado: v16.13.1</h6>
 <img src="https://img.shields.io/badge/status-finishing-blue?style=for-the-badge&logo=nodedotjs&color=darkgreen&logoColor=green&labelColor=black">
+<a href="https://github.com/mrx04programmer/Cerbero/blob/master/README.md">Version en ingles 🇺🇸</a>
