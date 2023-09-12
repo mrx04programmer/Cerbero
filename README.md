@@ -35,6 +35,8 @@ To start the cerbero server, we use the command ```npm run cerbero```
 
 ## Demo
 ![imagen](https://user-images.githubusercontent.com/46001898/189255366-28b3d367-aaaa-49c7-a753-3c86c5bb0764.png)
+![imagen](https://github.com/mrx04programmer/Cerbero/assets/46001898/478b85ee-a3a2-45ac-b962-0a56a7c91a90)
+
 
 <h6>NodeJS version used: v16.13.1</h6>
 <img src="https://img.shields.io/badge/status-finishing-blue?style=for-the-badge&logo=nodedotjs&color=darkgreen&logoColor=green&labelColor=black">
